@@ -8,5 +8,7 @@
             "email": "eh1306@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^12.1"
+    }
 }
