@@ -1,5 +1,10 @@
 {
     "name": "lijj/hexlet-php",
+    "autoload": {
+	    "files": [
+		    "src/Runner.php"
+	    ]
+    },
     "type": "project",
     "license": "Apache-2.0",
     "authors": [
