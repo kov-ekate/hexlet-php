@@ -15,5 +15,9 @@
     ],
     "require": {
         "illuminate/collections": "^12.1"
+    },
+    "scripts": {
+	    "phpcs": "phpcs",
+	    "phpcbf": "phpcbf"
     }
 }
